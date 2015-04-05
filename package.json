@@ -1,0 +1,19 @@
+{
+  "name": "prepwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "lab": "^5.5.1",
+    "code": "^1.4.0"
+  },
+  "devDependencies": {
+    "code": "^1.4.0",
+    "lab": "^5.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
